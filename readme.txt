@@ -1,2 +1,1 @@
-this is a movie recomendation system 
-
+this is a movie recomendation system ,which uses svm model
